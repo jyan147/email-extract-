@@ -1,5 +1,5 @@
 # email-extract-
-Email Extract App
+Passivev Recon: Email Extract App of Organisation
 Fyne Golang GUI
 -------------------------
 install GUI exe file :
