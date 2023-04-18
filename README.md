@@ -1,4 +1,3 @@
-# email-extract-
 Passive Recon: Email Extract App of Organisation
 Fyne Golang GUI
 -------------------------
